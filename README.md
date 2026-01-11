@@ -1,4 +1,3 @@
-# Fine-tuning-Phi-2-for-Abstractive-Text-Summarization
 # Fine-tuning Phi-2 for Abstractive Text Summarization
 
 ## 👥 Team Information
