@@ -57,6 +57,5 @@ Unlike extractive summarization (which copies sentences), this model learns to g
 .
 ├── notebooks/
 │   └── task-3-deep-learning.ipynb    # Main Jupyter Notebook for Training & Inference
-├── reports/                          # Training logs and evaluation results
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # Project documentation
